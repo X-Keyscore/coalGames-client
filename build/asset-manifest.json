@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c50da6b.css",
+    "main.js": "/static/js/main.10951324.js",
+    "static/media/OuterWilds.mp3": "/static/media/OuterWilds.ce90187881c60f26d148.mp3",
+    "static/media/WhitneySemiboldRegular.woff": "/static/media/WhitneySemiboldRegular.caae8d9abdbee216a4ca.woff",
+    "static/media/WhitneyBoldRegular.woff": "/static/media/WhitneyBoldRegular.ee4a7c9c3fe1da4bd804.woff",
+    "static/media/whitneyBookRegular.woff": "/static/media/whitneyBookRegular.dc2270bc01becea3d5b9.woff",
+    "static/media/WhitneyMediumRegular.woff": "/static/media/WhitneyMediumRegular.c267a17da13d9a7c3ba0.woff",
+    "static/media/QuantumMoon.png": "/static/media/QuantumMoon.c27517034b2a9be95948.png",
+    "static/media/analysts.png": "/static/media/analysts.296646ea216113e05740.png",
+    "static/media/architects.png": "/static/media/architects.7942518a639cf47e0ab8.png",
+    "index.html": "/index.html",
+    "main.5c50da6b.css.map": "/static/css/main.5c50da6b.css.map",
+    "main.10951324.js.map": "/static/js/main.10951324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c50da6b.css",
+    "static/js/main.10951324.js"
+  ]
+}
