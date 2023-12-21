@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.b01bab0e.css",
-    "main.js": "./static/js/main.212fc184.js",
+    "main.js": "./static/js/main.ac736797.js",
     "static/media/OuterWilds.mp3": "./static/media/OuterWilds.ce90187881c60f26d148.mp3",
     "static/media/WhitneySemiboldRegular.woff": "./static/media/WhitneySemiboldRegular.caae8d9abdbee216a4ca.woff",
     "static/media/WhitneyBoldRegular.woff": "./static/media/WhitneyBoldRegular.ee4a7c9c3fe1da4bd804.woff",
@@ -12,10 +12,10 @@
     "static/media/architects.png": "./static/media/architects.7942518a639cf47e0ab8.png",
     "index.html": "./index.html",
     "main.b01bab0e.css.map": "./static/css/main.b01bab0e.css.map",
-    "main.212fc184.js.map": "./static/js/main.212fc184.js.map"
+    "main.ac736797.js.map": "./static/js/main.ac736797.js.map"
   },
   "entrypoints": [
     "static/css/main.b01bab0e.css",
-    "static/js/main.212fc184.js"
+    "static/js/main.ac736797.js"
   ]
 }
